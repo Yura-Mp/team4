@@ -1,4 +1,4 @@
-package oit.is.inudaisuki.springboot_samples.controller;
+package oit.is.z2395.dai2_team4.team4.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
